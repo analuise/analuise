@@ -12,7 +12,7 @@
 
 ![Analuise Status](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&layout=compact)](https://github.com/analuise/github-readme-stats)
-![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=onedark)
+![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=radical)
 
 
 <h3 align="left">Languages and Tools:</h3>
