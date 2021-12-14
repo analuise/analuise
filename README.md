@@ -13,9 +13,7 @@
 
 ![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=tokyonight)
 
-<img src="https://camo.githubusercontent.com/" alt="analuise Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&amp;theme=tokyonight&amp;layout=compact" style="max-width: 100%;">
-
-[![Top Linguagens]<img src="https://camo.githubusercontent.com/" alt="analuise Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&amp;theme=tokyonight&amp;layout=compact" style="max-width: 100%;">
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&amp;theme=tokyonight&amp;layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
