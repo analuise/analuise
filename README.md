@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I am Ana ![image](https://user-images.githubusercontent.com/91298497/145918087-61b6f57c-4067-48bd-98c8-06dd99fc06d5.png)
+<h1 align="center">Hello There, I am Ana  ! 
 </h1>
 <h3 align="center">I'm a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-End, through languages such as HTML, JAVASCRIPT, CSS using REACT.JS libraries.</h3>
 
