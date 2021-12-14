@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I am Ana👋</h1>
 <h3 align="center">I'm a Telecommunications Engineering student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-End, through languages such as HTML, JAVASCRIPT, CSS using REACT.JS libraries.</h3>
 
-- 🔭 I’m currently working on **Intelbras, in the Network Technical Support part.**
+- 🔭 I’m currently working on **Intelbras, in the Technical Support team in Networks**
 
 - 🌱 I’m currently learning **HTML, JAVASCRIPT, CSS using REACT.JS libraries.**
 
