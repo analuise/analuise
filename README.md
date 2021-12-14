@@ -10,11 +10,11 @@
 
 - ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
 
-! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise )] (https://github.com/anuraghazra/github-readme-stats)
-! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & hide = contribs, prs )
-! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & count_private = true )
-! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true )
-! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true & theme = radical )
+! [Estatísticas GitHub de analuise] (https://github-readme-stats.vercel.app/api ? Username = analuise )] (https://github.com/analuise/github-readme-stats)
+! [Estatísticas do GitHub de analuise] (https://github-readme-stats.vercel.app/api ? Username = analuise & hide = contribs, prs )
+! [Estatísticas do GitHub do analuise] (https://github-readme-stats.vercel.app/api ? Username = analuise & count_private = true )
+! [Estatísticas do GitHub de analuise] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true )
+! [Estatísticas do GitHub de analuise] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true & theme = radical )
 
 <a href="https://github.com/analuise://github-readme-stats.vercel.app/api/pin/?username=analuise&repo=github-readme-stats" />
 </a>
