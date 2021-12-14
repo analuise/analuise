@@ -9,6 +9,7 @@
 - 🤝 **I am improving and developing myself to become a Software Developer in the near future, focused on applications involving Front-End Development.**
 
 - ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
+ 
 
 ![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=tokyonight)
 
