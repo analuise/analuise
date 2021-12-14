@@ -10,8 +10,8 @@
 
 - ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&layout=compact)](https://github.com/analuise/github-readme-stats)
 ![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=tokyonight)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&layout=compact)](https://github.com/analuise/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
