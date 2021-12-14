@@ -16,10 +16,10 @@
 ! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true )
 ! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = analuise & show_icons = true & theme = radical )
 
-<a href="https://github.com/analuise://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/analuise://github-readme-stats.vercel.app/api/pin/?username=analuise&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/analuise/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=analuise&repo=convoychat" />
 </a>
 
 
