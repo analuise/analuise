@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, JAVASCRIPT, CSS using REACT.JS libraries.**
 
-- 🤝 I’m looking for help with **I'm improving and developing myself to become a Software Developer in the near future, focused on applications involving Front-End Development.**
+- 🤝 I'm improving and developing myself to become a Software Developer in the near future, focused on applications involving Front-End Development.**
 
 - ⚡ Fun fact **Telecommunications Technician and Technical Support Analyst.**
 
