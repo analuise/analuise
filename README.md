@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<h1>Hello There, i am Ana <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1>Hello There, i am Ana!
 </h1>
 <h3 align="center">I am a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-end, through languages such as HTML, JAVASCRIPT, CSS using REACT.JS libraries.</h3>
 
