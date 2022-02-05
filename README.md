@@ -1,21 +1,35 @@
-<h1 align="center">Hello There, i am Ana 👋
+<div align="center" width="50">
+<h1>Hello There, i am Ana <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 </h1>
 <h3 align="center">I am a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-end, through languages such as HTML, JAVASCRIPT, CSS using REACT.JS libraries.</h3>
 
-- 🔭 I am currently working on **Intelbras, in the Technical Support team in Networks**
+🤝 I'm improving myself as a software developer, focused on Front-end applications.**
 
-- 🌱 I am currently learning **HTML, JAVASCRIPT, CSS using REACT.JS libraries.**
+⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
 
-- 🤝 **I am improving and developing myself to become a Software Developer in the near future, focused on applications involving Front-end Development.**
 
-- ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
- 
-![Analuise GitHub stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=tokyonight)
+## Here are some of my statistics:
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&amp;theme=tokyonight&amp;layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![analuise's github stats](https://github-readme-stats.vercel.app/api?username=analuise&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=analuise&theme=tokyonight" alt="mystreak"/>
+
+![analuise's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&theme=tokyonight&layout=compact)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
+</div>
+
+
 
 
 
