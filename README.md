@@ -7,6 +7,12 @@
    
 ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
 
+<div align="left" width="50">
+   
+### Contacts:
+
+<div align="left" width="50"> 
+<a href="https://www.linkedin.com/in/ana-luise-de-abreu-076319201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ## Here are some of my statistics:
 
@@ -16,14 +22,25 @@
 
 ![analuise's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuise&theme=tokyonight&layout=compact)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>   
+   
+### Tools and Technologies:
 
-<img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ana-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Ana-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Ana-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+<img align="center" alt="Ana-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   
+### I am learning:
+   
+<img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+   
+   
+   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
