@@ -1,7 +1,7 @@
 <div align="center" width="50">
 <h1>Hi, i am Ana!
 </h1>
-<h3 align="center">I am a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-end, through languages such as HTML, JavaScript, TypeScript and CSS using REACT.JS libraries.</h3>
+<h3 align="center">I am a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-end, through languages such as HTML, JavaScript, TypeScript and CSS using React.JS libraries.</h3>
 
 🤝 I'm improving myself as a software developer, focused on Front-end applications.
    
