@@ -1,9 +1,15 @@
 <div align="center" width="50">
 <h1>Hi, i am Ana!
 </h1>
-<h3 align="center">I am a Telecommunications Engineering Student at IFSC, currently focused on learning and applying new technologies involving Web Development - Front-end, through languages such as HTML, CSS, JavaScript and TypeScript using React libraries.</h3>
+<h3 align="center">
 
-🤝 I'm improving myself as a software developer, focused on Front-end applications.
+I am a Telecommunications Engineering student at IFSC, i am always looking to be better than the day before, to have continuous growth and impact people's lives.
+
+Currently focused on learning and applying new technologies involving Web Development - Front-end, through languages like HTML, CSS, JavaScript and TypeScript using React libraries, and I'm looking forward to having new experiences with them.
+
+I chose development because it's amazing and passionate, the amount of things that can be created and the impact it can have on people's lives makes me excited.</h3>
+
+📚 I'm improving myself as a software developer, focused on Front-end applications.
    
 ⚡ Fun fact: **Telecommunications Technician and Technical Support Analyst.**
    
