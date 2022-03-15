@@ -5,7 +5,7 @@
 
 I am a Telecommunications Engineering student at IFSC, i am always looking to be better than the day before, to have continuous growth and impact people's lives.
 
-Currently focused on learning and applying new technologies involving Web Development - Front-end, through languages like HTML, CSS, JavaScript and TypeScript using React libraries, and I'm looking forward to having new experiences with them.
+Currently focused on learning and applying new technologies involving Web Development - front-end, through languages like HTML, CSS, JavaScript and TypeScript using React libraries, and I'm looking forward to having new experiences with them.
 
 I chose development because it's amazing and passionate, the amount of things that can be created and the impact it can have on people's lives makes me excited.</h3>
 
